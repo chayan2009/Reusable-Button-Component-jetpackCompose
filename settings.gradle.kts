@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Reusable-Button-Component-jetpackCompose"
 include(":app")
-include(":custombuttonlib")
+include(":btnlib")

@@ -1,4 +1,4 @@
-package com.withjetpack.reusable_button_component_jetpackcompose
+package com.withjetpack.btnlib
 
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material3.Button
